@@ -1,6 +1,6 @@
 
 
-<pre><a align='right' href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/></a>                                                               <a align='left' href="https://github.com/Emon-ProCoder7"><img src="https://img.shields.io/badge/author-MdTabassumHossainEmon-orange"/></a></pre>
+<pre><a align='right' href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/></a>                                                              <a align='left' href="https://github.com/Emon-ProCoder7"><img src="https://img.shields.io/badge/author-MdTabassumHossainEmon-teal"/></a></pre>
 
   
 
