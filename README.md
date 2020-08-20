@@ -1,8 +1,6 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
   
-
-
-[![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
+<p align ='left'><a href="https://github.com/Emon-ProCoder7"><img src="https://img.shields.io/badge/author-MdTabassumHossainEmon-orange"/></p>   <p align ='right'><a href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/></p>
 
   
 
