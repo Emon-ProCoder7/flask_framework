@@ -7,7 +7,7 @@
 
 <h1 align = 'center'><strong>01. Tourist Attraction </strong></h1>
 
-Whenever you travel it is fun to make a list of places you want to visit.  The application consists of 7 files.
+Whenever you travel it is fun to make a list of places you want to visit.  The application consists of 7 files. My app can store user input data to show.
 
 - Within each category you will have the option to move a location up to the next category and also remove a location.
 - There is also the option to add new locations to any of the categories. 
